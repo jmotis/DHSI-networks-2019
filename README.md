@@ -34,7 +34,7 @@ If possible, please install Gephi before this course begins.  You can find the f
   ## Day 2: Structuring and Visualizing Networks
 1. Varieties of Networks
 2. [Structuring Data for Networks](https://docs.google.com/spreadsheets/d/1YWSy5NmnIGaDjhFheMLOwDHs480cPgNNDKDiNXbDPac/edit?usp=sharing)
-- with a quick peek at [Palladio](https://hdlab.stanford.edu/palladio/)
+    1. with a quick peek at [Palladio](https://hdlab.stanford.edu/palladio/)
 3. Visualizing Networks (with [Gephi](https://gephi.org))
   
   ## Day 3: Quantitatively Analyzing Networks
