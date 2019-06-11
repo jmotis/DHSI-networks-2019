@@ -35,7 +35,9 @@ If possible, please install Gephi before this course begins.  You can find the f
 1. Varieties of Networks
 2. [Structuring Data for Networks](https://docs.google.com/spreadsheets/d/1YWSy5NmnIGaDjhFheMLOwDHs480cPgNNDKDiNXbDPac/edit?usp=sharing)
     1. with a quick peek at [Palladio](https://hdlab.stanford.edu/palladio/)
-3. Visualizing Networks (with [Gephi](https://gephi.org))
+3. Visualizing Networks
+    1. with [Gephi](https://gephi.org))
+    2. [The Diary of Samuel Pepys](https://www.pepysdiary.com/diary/)
   
   ## Day 3: Quantitatively Analyzing Networks
 1. Network Metrics
