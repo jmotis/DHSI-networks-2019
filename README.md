@@ -37,12 +37,12 @@ If possible, please install Gephi before this course begins.  You can find the f
     1. with a quick peek at [Palladio](https://hdlab.stanford.edu/palladio/)
 3. Visualizing Networks
     1. with [Gephi](https://gephi.org))
-    2. [The Diary of Samuel Pepys](https://www.pepysdiary.com/diary/)
   
   ## Day 3: Quantitatively Analyzing Networks
-1. Network Metrics
-2. How To Use (and How NOT To Use) Network Analysis
-3. Networks Over Time and Space
+1. Networks Over Time and Space
+2. Network Metrics
+    1. [The Diary of Samuel Pepys](https://www.pepysdiary.com/diary/)
+3. How To Use (and How NOT To Use) Network Analysis
   
   ## Day 4: Individual Projects
 1. Additional Network Tools
