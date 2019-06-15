@@ -26,14 +26,14 @@ If possible, please install Gephi before this course begins.  You can find the f
   ## Day 1: Welcome and Introduction to Networks
 
 1. Welcome
-    1. [Introductions](https://docs.google.com/document/d/19kX-O7x08iaf-jpzuALYc-mM4MiCulWQqqaIwgcoZPs/edit?usp=sharing)
+    1. Introductions
     2. Logistics
     3. [Schedule](https://github.com/jmotis/DHSI-networks-2019/blob/master/README.md)
 2. Graphs, Trees, and Networks
   
   ## Day 2: Structuring and Visualizing Networks
 1. Varieties of Networks
-2. [Structuring Data for Networks](https://docs.google.com/spreadsheets/d/1YWSy5NmnIGaDjhFheMLOwDHs480cPgNNDKDiNXbDPac/edit?usp=sharing)
+2. Structuring Data for Networks
     1. with a quick peek at [Palladio](https://hdlab.stanford.edu/palladio/)
 3. Visualizing Networks
     1. with [Gephi](https://gephi.org))
